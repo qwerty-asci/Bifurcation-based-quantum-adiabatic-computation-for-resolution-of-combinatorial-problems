@@ -1,2 +1,2 @@
-# Bifurcation-based-quantum-adiabatic-computation-for-resolution-of-combinatorial-problems
-This respository contains the programs that I used to perform the simulations in my final master thesis.
+# Bifurcation-Based Quantum Adiabatic Computation for the Resolution of Combinatorial Problems
+This repository contains the programs I used to perform the simulations for my master’s thesis.
